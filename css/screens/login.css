@@ -31,14 +31,11 @@
     font-size: 18px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
     margin-bottom: 25px;
-    
-    
 }
 
 #login-form input:not([type="subnot"]) {
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
     transition: border-color 0.3s ease-in-out;
-
 }
 
 #login-form input::placeholder {
