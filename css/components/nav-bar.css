@@ -35,16 +35,7 @@
 }
 
 .nav__notification2 {
-  background-color: tomato;
-  width: 10px;
-  height: 10px;
-  border-radius: 5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   position: absolute;
-
-  color: #f9f9fa;
   left: 35px;
   bottom: 30px;
 }
