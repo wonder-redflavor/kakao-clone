@@ -14,3 +14,17 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.screen-header__icons-noti {
+  position: absolute;
+  top: 45px;
+  right: 15px;
+  background-color: tomato;
+  width: 10px;
+  height: 10px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f9f9fa;
+}
